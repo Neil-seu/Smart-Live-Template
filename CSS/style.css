@@ -429,11 +429,11 @@ h1,h2,h3,h4,h5,h6,p {
 }
 
 .leftsubscription h5 {
-    font-size: calc(20px + .5vw);
+    font-size: calc(22px + .5vw);
 }
 
 .leftsubscription p {
-    font-size: 35px;
+    font-size: calc(20px + .1vw);
     font-weight: 300;
     color: #222222;
 }
